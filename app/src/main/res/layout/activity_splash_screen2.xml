@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textSize="30sp"
-        android:text="A preparar o seu pedido :)"/>
+        android:text="A preparar o seu pedido :), aguarde...."/>
 
 
 </LinearLayout>
